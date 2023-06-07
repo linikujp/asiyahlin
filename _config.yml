@@ -85,7 +85,7 @@ author:
   bio              : "A seasoned ontologist and community organizer trained in immunology, pediatrics, and informatics."
   location         : "Bethesda, USA"
   employer         :
-  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=(Lin%2C%20Asiyah%5BAuthor%5D)%20OR%20(((Lin%2C%20Yu%5BAuthor%5D)%20OR%20(Yu%2C%20Lin%5BAuthor%5D))%20AND%20((ontology%5BTitle%2FAbstract%5D)%20NOT%20(%22gene%20ontology%22%5BTitle%2FAbstract%5D)))"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=%28Lin%2C+Asiyah%5BAuthor%5D%29+OR+%28%28%28Lin%2C+Yu%5BAuthor%5D%29+OR+%28Yu%2C+Lin%5BAuthor%5D%29%29+AND+%28%28ontology%5BTitle%2FAbstract%5D%29+NOT+%28%22gene+ontology%22%5BTitle%2FAbstract%5D%29%29%29&size=100"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
