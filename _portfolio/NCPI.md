@@ -19,4 +19,3 @@ The [NIH Cloud Platform Interoperability Effort (NCPI)](https://anvilproject.org
 *	Evaluate and establish FHIR interoperability with biomedical knowledge graph modeling tool (LinkML)
 *	Identify, evaluate, and recommend tools, ontologies, and data modeling harmonization methods to increase access to and utility of clinical, biological, and other scientific datasets and knowledge bases.
 *	Actively reach out to NCPI potential partners, such as All of Us, GA4GH, Elixir, to establish the path forward to expand NCPI efforts.
-* Supported the creation and execution of the 5M+ Other Transaction (OT) award of the Administrative Coordination Center for the NCPI.
