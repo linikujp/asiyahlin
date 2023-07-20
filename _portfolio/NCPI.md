@@ -1,6 +1,6 @@
 ---
 title: "NIH Cloud Platform Interoperability (NCPI)"
-excerpt: "The NIH Cloud Platform Interoperability Effort (NCPI) will establish and implement guidelines and technical standards to empower end-user analyses across participating cloud platforms and facilitate the realization of a trans-NIH, federated data ecosystem.<br/>[NCPI website](https://anvilproject.org/ncpi)"
+excerpt: "The [NIH Cloud Platform Interoperability Effort (NCPI)](https://anvilproject.org/ncpi) aims to establish and implement guidelines and technical standards to empower end-user analyses across participating cloud platforms and facilitate the realization of a trans-NIH, federated data ecosystem.<br/>"
 collection: portfolio
 ---
 
