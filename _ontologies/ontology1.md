@@ -1,6 +1,6 @@
 ---
-title: "Ontology item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Clinical Trial Ontology (CTO)"
+excerpt: "An ontology to represent clinical trials using a small set of core terms, which were primarily based on the  WHO/ICMJE – ClinicalTrials.gov Cross Reference selected from ClinicalTrials.gov and WHO clinical trial terms.<br/>https://github.com/ClinicalTrialOntology/CTO"
 collection: ontologies
 ---
 
