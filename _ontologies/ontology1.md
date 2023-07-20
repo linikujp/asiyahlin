@@ -1,6 +1,6 @@
 ---
 title: "Clinical Trial Ontology (CTO)"
-excerpt: "An ontology to represent clinical trials using a small set of core terms, which were primarily based on the  WHO/ICMJE – ClinicalTrials.gov Cross Reference selected from ClinicalTrials.gov and WHO clinical trial terms.<br/>https://github.com/ClinicalTrialOntology/CTO"
+excerpt: "An ontology to represent clinical trials using a small set of core terms, which were primarily based on the  WHO/ICMJE – ClinicalTrials.gov Cross Reference selected from ClinicalTrials.gov and WHO clinical trial terms.<br/> [https://github.com/ClinicalTrialOntology/CTO](https://github.com/ClinicalTrialOntology/CTO)"
 collection: ontologies
 ---
 
