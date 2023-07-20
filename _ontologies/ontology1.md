@@ -4,4 +4,5 @@ excerpt: "An ontology to represent clinical trials using a small set of core ter
 collection: ontologies
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Description: "An ontology to represent clinical trials using a small set of core terms, which were primarily based on the  [WHO/ICMJE – ClinicalTrials.gov Cross Reference](https://prsinfo.clinicaltrials.gov/trainTrainer/WHO-ICMJE-ClinTrialsgov-Cross-Ref.pdf) selected from [ClinicalTrials.gov](https://www.clinicaltrials.gov/) and [WHO clinical trial terms](https://www.who.int/ictrp/network/trds/en/).<br/>"
+Website: 'https://github.com/ClinicalTrialOntology/CTO" 
