@@ -1,6 +1,6 @@
 ---
 title: "Coronavirus Infectious Disease Ontology (CIDO)"
-excerpt: "Standardized human- and computer-interpretable annotation and representation of various coronavirus infectious diseases, including their etiology, transmission, epidemiology, pathogenesis, diagnosis, prevention, and treatment..<br/>https://github.com/CIDO-ontology/cido"
+excerpt: "Standardized human- and computer-interpretable annotation and representation of various coronavirus infectious diseases, including their etiology, transmission, epidemiology, pathogenesis, diagnosis, prevention, and treatment..<br/>[https://github.com/CIDO-ontology/cido](https://github.com/CIDO-ontology/cido)"
 collection: ontologies
 ---
 
