@@ -9,5 +9,4 @@ The Breast Implant Ontology was developed internally at the FDA, to classify and
 **Website**: Internal website at the FDA <br/><br/>
 **My role**: Lead Ontologist <br/><br/>
 
-![Breast Implant Ontology Modeling](http://url/to/img.png)
-
+![Breast Implant Ontology Modeling](https://github.com/linikujp/asiyahlin/blob/master/images/BIO_Modeling.JPG)
